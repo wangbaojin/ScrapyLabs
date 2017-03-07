@@ -90,4 +90,4 @@ ROBOTSTXT_OBEY = True
 
 DOWNLOAD_DELAY = 1
 ITEM_PIPELINES = {'scrapy.pipelines.images.ImagesPipeline': 1}
-IMAGES_STORE = '.'
+IMAGES_STORE = 'cd /Users/yozoh/haha'
